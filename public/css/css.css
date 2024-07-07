@@ -1,0 +1,38 @@
+body {
+    background-color: #781a92;
+}
+h1{
+    text-align: center;
+    color:white;
+    font-family: "Times New Roman", Times, serif;
+}
+p{
+    color:white;
+}
+.navbar-nav {
+    width: 100%;
+    text-align: center;
+}
+
+label{
+    color:white;
+}
+h4{
+    color:white;
+}
+
+h6{
+    color: white;
+}
+
+h2{
+    color:white;
+}
+
+
+footer{
+    text-align: center;
+    height: 700px ;    
+    color:white;
+    font-family: "Times New Roman", Times, serif;
+}
